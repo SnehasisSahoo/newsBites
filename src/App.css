@@ -89,6 +89,7 @@
   border-radius: 20px;
   text-transform: capitalize;
   background-color: whitesmoke;
+  color: #2e475e;
   width: 20vw;
   cursor: pointer;
 
@@ -97,6 +98,7 @@
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   background-color: #2e475e;
+  color: whitesmoke;
 
 }
 
